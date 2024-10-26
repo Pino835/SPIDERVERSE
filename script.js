@@ -26,3 +26,35 @@ function filterCards() {
         }
     }
 }
+
+// Función para cargar la información del personaje desde el archivo JSON
+async function loadPerson() {
+    try {
+        // Obtener el parámetro 'name' de la URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const name = urlParams.get('name');
+
+        // Cargar el archivo JSON
+        const response = await fetch('spiderverse.json');
+        if (!response.ok) {
+            throw new Error('No se pudo cargar el archivo JSON');
+        }
+        const people = await response.json();
+
+        // Buscar el personaje en el archivo JSON
+        const person = people.find(p => p.alias === name);
+
+        // Mostrar la información del personaje
+        if (person) {
+            document.getElementById('name').textContent = person.name;
+            document.getElementById('alias').textContent = person.alias;
+            document.getElementById('data').textContent = person.data;
+            document.getElementById('image').src = person.image;
+        } else {
+            alert('Personaje no encontrado en el archivo JSON');
+        }
+    } catch (error) {
+        console.error('Error al cargar los datos:', error);
+        alert('Hubo un error al cargar los datos del personaje');
+    }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Spiderman",
+        "alias": "Miles Morales",
+        "data": "El joven Spider-Man del universo alternativo...",
+        "image": "https://cdn.milenio.com/uploads/media/2023/06/01/miles-morales-tendra-su-propia.jpg"
+    },
+    {
+        "name": "Spiderman 2099",
+        "alias": "Miguel O'Hara",
+        "data": "Un Spiderman futurista del año 2099...",
+        "image": "https://dknetwork.draftkings.com/wp-content/uploads/2023/06/image_2023_04_04_145646954.0.0.jpeg"
+    },
+    {
+        "name": "Spidergwen",
+        "alias": "Gwen Stacy",
+        "data": "Una Spiderman de otro universo...",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49ec1464-d899-400a-b608-c48c76b500d2/dctti65-aadb7001-929e-4a70-9d35-0650d4aec294.jpg"
+    },
+    {
+        "name": "Spiderman Noir",
+        "alias": "Peter Parker",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Spider Punk",
+        "alias": "Hobart Brown",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Spiderwoman",
+        "alias": "Jessica Drew",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Scarlet Spidern",
+        "alias": "Ben Reilly",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Sp//dr",
+        "alias": "Peni Parker",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Spider Pig",
+        "alias": "Peter Porker",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Spiderman",
+        "alias": "Peter B. Parker",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Spider Cat",
+        "alias": "Cat",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    },
+    {
+        "name": "Spiderman",
+        "alias": "Pavitr Prabhakar",
+        "data": "Una Spiderman de otro universo...",
+        "image": ""
+    }
+]

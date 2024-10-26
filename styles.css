@@ -26,6 +26,15 @@ body {
     padding: 10px;
 }
 
+.container1 a {
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+    color: inherit; /* Hereda el color del texto para evitar el color de enlace predeterminado */
+}
+
+.container1 a:hover {
+    color: inherit; /* Mantiene el color cuando se pasa el ratón sobre el enlace */
+}
+
 .card {
     width: 250px; /* Ancho fijo para todas las cartas */
     height: 250px; /* Alto fijo para todas las cartas */
