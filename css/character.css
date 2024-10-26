@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to right, red, orange, white);
+}
+
+img {
+    position: fixed;
+    left: 50%;
+    bottom: 70px;
+    width: 410px;
+}
+
