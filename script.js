@@ -46,10 +46,17 @@ async function loadPerson() {
 
         // Mostrar la información del personaje
         if (person) {
+            const nameElement = document.getElementById('name');
+            nameElement.textContent = person.name;
+            nameElement.setAttribute('data-text', person.name);
             document.getElementById('name').textContent = person.name;
             document.getElementById('alias').textContent = person.alias;
             document.getElementById('data').textContent = person.data;
-            document.getElementById('image').src = person.image;
+
+            const imageElement = document.getElementById('image');
+            imageElement.src = person.image;
+            
+            imageElement.classList.add(person.class);
         } else {
             alert('Personaje no encontrado en el archivo JSON');
         }

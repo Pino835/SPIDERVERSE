@@ -3,72 +3,84 @@
         "name": "Spiderman",
         "alias": "Miles Morales",
         "data": "El joven Spider-Man del universo alternativo...",
-        "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/miles-no-mask_ver_1.png"
+        "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/miles-no-mask_ver_1.png",
+        "class": "miles-style"
     },
     {
         "name": "Spiderman 2099",
         "alias": "Miguel O'Hara",
         "data": "Un Spiderman futurista del año 2099...",
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixl-fd91f627-69b1-4abf-97a6-fea48795635d.png/v1/fill/w_1280,h_1540/across_the_spider_verse_miguel_o_hara_png_by_metropolis_hero1125_dfzaixl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU0MCIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4bC1mZDkxZjYyNy02OWIxLTRhYmYtOTdhNi1mZWE0ODc5NTYzNWQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6x77Q2FOH5XGyJ-ZJImN-7l-vTNOQbSDJ03uS5WqHSk"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixl-fd91f627-69b1-4abf-97a6-fea48795635d.png/v1/fill/w_1280,h_1540/across_the_spider_verse_miguel_o_hara_png_by_metropolis_hero1125_dfzaixl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU0MCIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4bC1mZDkxZjYyNy02OWIxLTRhYmYtOTdhNi1mZWE0ODc5NTYzNWQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6x77Q2FOH5XGyJ-ZJImN-7l-vTNOQbSDJ03uS5WqHSk",
+        "class": "miguel-style"
     },
     {
         "name": "Spidergwen",
         "alias": "Gwen Stacy",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b82ba2b-aff7-44e6-9afe-a57a5c42014d/dfyxhx5-9a659dc5-ad03-432b-a5eb-8ea0b87706b0.png/v1/fill/w_1280,h_1416/spider_gwen_render_by_kingevan210_dfyxhx5-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQxNiIsInBhdGgiOiJcL2ZcLzFiODJiYTJiLWFmZjctNDRlNi05YWZlLWE1N2E1YzQyMDE0ZFwvZGZ5eGh4NS05YTY1OWRjNS1hZDAzLTQzMmItYTVlYi04ZWEwYjg3NzA2YjAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.JB0K4vOccSriR261lg5yMJBIaApxSldLcvRgi-zxO9o"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f890a9ae-278c-482d-aa89-1e553b459310/dgce386-80e98865-eb88-485c-83a9-9b573a31ec7f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4OTBhOWFlLTI3OGMtNDgyZC1hYTg5LTFlNTUzYjQ1OTMxMFwvZGdjZTM4Ni04MGU5ODg2NS1lYjg4LTQ4NWMtODNhOS05YjU3M2EzMWVjN2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NU8FhYOXIiM6J0cH4NBonhMbFfsIcXf_8iNfvnKDqPU",
+        "class": "gwen-style"
     },
     {
         "name": "Spiderman Noir",
         "alias": "Peter Parker",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://gizmodo.com/app/uploads/2023/02/2b473aabcb82282074fa5c38a16ed4e1.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1a9a6fa-bf6d-4ac3-b103-5ed371db466d/ddym783-2087c246-f5fd-4d70-9fdf-a322fa6b6cf3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxYTlhNmZhLWJmNmQtNGFjMy1iMTAzLTVlZDM3MWRiNDY2ZFwvZGR5bTc4My0yMDg3YzI0Ni1mNWZkLTRkNzAtOWZkZi1hMzIyZmE2YjZjZjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Pi5bo8Ufri18XB9mFiRnP-8BjGdOtITxkIRHyRD1Lrc",
+        "class": "noir-style"
     },
     {
         "name": "Spider Punk",
         "alias": "Hobart Brown",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://ew.com/thmb/yOmReTLTUQO79jOe6nER0ww6DdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SPIDER-MAN-ACROSS-THE-SPIDER-VERSE-082323-1-d0e1cb55ae474964aaff4a68fc537b92.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixe-ef7438b7-8045-4c3e-93bd-7c437f999791.png/v1/fill/w_1280,h_1601/across_the_spider_verse_hobie_brown_png_by_metropolis_hero1125_dfzaixe-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMSIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4ZS1lZjc0MzhiNy04MDQ1LTRjM2UtOTNiZC03YzQzN2Y5OTk3OTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2xlX4_F09z4jFfCQjGhvXb4OhO2cO1fe3QdE0AiVLfE",
+        "class": "punk-style"
     },
     {
         "name": "Spiderwoman",
         "alias": "Jessica Drew",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/984e4c0f-6b4f-481d-bf9b-26d4c46bdfe7/Screen+Shot+2023-05-14+at+1.23.39+PM.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ebd221d-3581-4775-8f4c-086c377bc4c3/dfym10h-96fe2414-c390-4612-80d1-3b075e35d167.png/v1/fill/w_1280,h_854/across_the_spider_verse_jessica_drew_png_by_docbuffflash82_dfym10h-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMWViZDIyMWQtMzU4MS00Nzc1LThmNGMtMDg2YzM3N2JjNGMzXC9kZnltMTBoLTk2ZmUyNDE0LWMzOTAtNDYxMi04MGQxLTNiMDc1ZTM1ZDE2Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dZ3QuBejpqxGLQ0ZPoaN4UeDg3z6LbsyfVMHXL_zVFk",
+        "class": "jess-style"
     },
     {
         "name": "Scarlet Spidern",
         "alias": "Ben Reilly",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/ben-reilly-spider-man-across-the-spider-verse-6475c68551026.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9d54c40-e2e2-4f98-9b52-535211193e7d/dftwfkn-000859e3-8ed9-4183-ba84-ffb54fa2ed20.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q5ZDU0YzQwLWUyZTItNGY5OC05YjUyLTUzNTIxMTE5M2U3ZFwvZGZ0d2Zrbi0wMDA4NTllMy04ZWQ5LTQxODMtYmE4NC1mZmI1NGZhMmVkMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qATZmI2KhGwWNxi7zdkdZKR-W8XbI5BGis55KckAhns",
+        "class": "ben-style"
     },
     {
         "name": "Sp//dr",
         "alias": "Peni Parker",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/10/Into-The-Spider-Verse-Peni-Parker.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea196117-0b64-49b7-b13f-79f43cf77e53/dcv863p-98cb2fc0-ae31-4cbe-8bce-54d3e77214f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhMTk2MTE3LTBiNjQtNDliNy1iMTNmLTc5ZjQzY2Y3N2U1M1wvZGN2ODYzcC05OGNiMmZjMC1hZTMxLTRjYmUtOGJjZS01NGQzZTc3MjE0ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kagl80C-2DIs-X3K8D1eAdEYbgaPBpj9KspPD1R2vGc",
+        "class": "peni-style"
     },
     {
         "name": "Spider Pig",
         "alias": "Peter Porker",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://pyxis.nymag.com/v1/imgs/cfb/86a/cfb0ea29615ba2ff7e0f0684c623a189df-12-spider-ham.rsocial.w1200.jpg"
+        "image": "https://i.pinimg.com/originals/4e/b7/d1/4eb7d15befd0ec16879e79e1c318da32.png",
+        "class": "pig-style"
     },
     {
         "name": "Spiderman",
         "alias": "Peter B. Parker",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/spider-verse-peter-parker-header.jpg"
+        "image": "https://i.pinimg.com/originals/eb/d7/b2/ebd7b2a8c73b37d7eddcee7ab2a75743.png",
+        "class": "peterb-style"
     },
     {
         "name": "Spider Cat",
         "alias": "Cat",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://www.slashfilm.com/img/gallery/our-favorite-spider-cameos-from-spider-man-across-the-spider-verse/spider-cat-1687189578.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixy-b3629cb3-5f31-4a8b-aff4-1d58f587009e.png/v1/fill/w_842,h_949/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4eS1iMzYyOWNiMy01ZjMxLTRhOGItYWZmNC0xZDU4ZjU4NzAwOWUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uRlZoLsAt-8vd0pVsl6_7cX7bmkYhkqCHAN0FNiytv0",
+        "class": "cat-style"
     },
     {
         "name": "Spiderman",
         "alias": "Pavitr Prabhakar",
         "data": "Una Spiderman de otro universo...",
-        "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/05/spider-man-india-across-the-spider-verse.jpg"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixs-e72547a5-442b-4d1f-9f9d-0b5cd75afe26.png/v1/fill/w_1280,h_1283/across_the_spider_verse_pavitar_prabhakar_png_by_metropolis_hero1125_dfzaixs-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4cy1lNzI1NDdhNS00NDJiLTRkMWYtOWY5ZC0wYjVjZDc1YWZlMjYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ba7mYYOssm_C63c-WshGBNoS71Z4QFLfChrv4nhCoWU",
+        "class": "pativr-style"
     }
 ]
