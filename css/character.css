@@ -4,15 +4,20 @@ body {
     background: radial-gradient(#480d35 ,#17151d);
 }
 
-#name{
+#container-person {
+    margin-top: 20px;
+    overflow: hidden; /* Oculta cualquier desbordamiento */
+}
+
+#name {
     position: relative;
     font-family: "Poppins", sans-serif;
     color: #f6d8d5;
     font-size: 100px;
-    top: -75px;
+    margin-top: -25px; /* Ajusta la posición del texto */
 }
 
-#name::before{
+#name::before {
     content: attr(data-text);
     position: absolute;
     top: 0em;
@@ -20,12 +25,12 @@ body {
     color: #313f97;
     z-index: -1;
     transition: 0.2s;
-  }
+}
 
 #name:hover::before {
     top: 0.04em;
     left: 0.04em;
-  }
+}
 
 #name::after {
     content: attr(data-text);
@@ -37,26 +42,24 @@ body {
     background-clip: text;
     -webkit-text-stroke: 1px #ec2225;
     transition: 0.2s;
-  }
+}
 
 #name:hover::after {
     top: -0.04em;
     left: -0.04em;
-  }
+}
 
 #alias {
-    position: relative;
     font-family: "Poppins", sans-serif;
     color: #f6d8d5;
     font-size: 50px;
-    top: -150px;
+    margin-top: -50px; /* Ajuste del margen en lugar de posición relativa */
 }
 
 #data {
-    position: relative;
     font-family: "Poppins", sans-serif;
     color: white;
-    top: -180px;
+    margin-top: -20px; /* Ajuste del margen */
     background-color: red;
     width: 50%;
     padding: 10px;
