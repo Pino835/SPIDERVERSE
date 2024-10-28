@@ -64,6 +64,8 @@ body {
 }
 
 a {
+    position: fixed;
+    bottom: 50px;
     font-family: "Poppins", sans-serif;
     text-decoration: none;
     color: white;
