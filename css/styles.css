@@ -30,6 +30,30 @@ body {
     padding: 10px;
 }
 
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre las tarjetas */
+    justify-content: center;
+}
+
+.card {
+    width: calc(25% - 10px); /* Ajusta el ancho para 4 columnas en pantallas grandes */
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: calc(50% - 10px); /* Ajusta el ancho a 2 columnas en pantallas pequeñas */
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        width: calc(100% - 10px); /* Ajusta el ancho a 1 columna en pantallas muy pequeñas */
+    }
+}
+
 .container1 a {
     text-decoration: none; /* Quita el subrayado de los enlaces */
     color: inherit; /* Hereda el color del texto para evitar el color de enlace predeterminado */
