@@ -1,41 +1,41 @@
 [
     {
-        "name": "Spiderman",
+        "name": "Spider-Man",
         "alias": "Miles Morales",
         "data": "Miles Gonzalo Morales es un adolescente de ascendencia afroamericana y latina residente en Brooklyn; quien después de haber sido mordido por una araña genéticamente modificada diseñada por el némesis de Spider-Man, Norman Osborn, asumió la identidad de Spider-Man en el Universo Ultimate tras la muerte de Peter Parker.",
         "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/miles-no-mask_ver_1.png",
         "class": "miles-style"
     },
     {
-        "name": "Spiderman 2099",
+        "name": "Spider-Man 2099",
         "alias": "Miguel O'Hara",
         "data": "Miguel O'Hara es un científico que opera como Spider-Man en el año 2099.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixl-fd91f627-69b1-4abf-97a6-fea48795635d.png/v1/fill/w_1280,h_1540/across_the_spider_verse_miguel_o_hara_png_by_metropolis_hero1125_dfzaixl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU0MCIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4bC1mZDkxZjYyNy02OWIxLTRhYmYtOTdhNi1mZWE0ODc5NTYzNWQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6x77Q2FOH5XGyJ-ZJImN-7l-vTNOQbSDJ03uS5WqHSk",
         "class": "miguel-style"
     },
     {
-        "name": "Spidergwen",
+        "name": "Spider-Gwen",
         "alias": "Gwen Stacy",
         "data": "Gwendolyne Maxine o Gwen Stacy es la hija del Capitán George Stacy y una joven estudiante, amante de la música, que fue picada por una araña radiactiva. Esto provocó que adquiriera poderes arácnidos.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f890a9ae-278c-482d-aa89-1e553b459310/dgce386-80e98865-eb88-485c-83a9-9b573a31ec7f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4OTBhOWFlLTI3OGMtNDgyZC1hYTg5LTFlNTUzYjQ1OTMxMFwvZGdjZTM4Ni04MGU5ODg2NS1lYjg4LTQ4NWMtODNhOS05YjU3M2EzMWVjN2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NU8FhYOXIiM6J0cH4NBonhMbFfsIcXf_8iNfvnKDqPU",
         "class": "gwen-style"
     },
     {
-        "name": "Spiderman Noir",
+        "name": "Spider-Man Noir",
         "alias": "Peter Parker",
         "data": "Spider-Man Noir es una versión alternativa de Peter Parker en la década de 1930. Impulsado por el idealismo y valores que sus tíos May y Ben le enseñaron, el temerario joven Peter Parker adopta el periodismo como una fuerza para luchar contra el mal y darle el poder a los inocentes y necesitados.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1a9a6fa-bf6d-4ac3-b103-5ed371db466d/ddym783-2087c246-f5fd-4d70-9fdf-a322fa6b6cf3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxYTlhNmZhLWJmNmQtNGFjMy1iMTAzLTVlZDM3MWRiNDY2ZFwvZGR5bTc4My0yMDg3YzI0Ni1mNWZkLTRkNzAtOWZkZi1hMzIyZmE2YjZjZjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Pi5bo8Ufri18XB9mFiRnP-8BjGdOtITxkIRHyRD1Lrc",
         "class": "noir-style"
     },
     {
-        "name": "Spider Punk",
+        "name": "Spider-Punk",
         "alias": "Hobart Brown",
         "data": "Spider-Man o Hobie Brown en su identidad civil es un joven afroamericano que fue picado por una araña radiactiva y asumió el papel de Spider-Man para liderar un ejercito contra la tiranía del Presidente Norman Osborn. Tras liberar a su mundo de la opresión, se unió al grupo de Superior Spider-Man para combatir a Los Herederos.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixe-ef7438b7-8045-4c3e-93bd-7c437f999791.png/v1/fill/w_1280,h_1601/across_the_spider_verse_hobie_brown_png_by_metropolis_hero1125_dfzaixe-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMSIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4ZS1lZjc0MzhiNy04MDQ1LTRjM2UtOTNiZC03YzQzN2Y5OTk3OTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2xlX4_F09z4jFfCQjGhvXb4OhO2cO1fe3QdE0AiVLfE",
         "class": "punk-style"
     },
     {
-        "name": "Spiderwoman",
+        "name": "Spider-Woman",
         "alias": "Jessica Drew",
         "data": "Spider-Woman cuya identidad es Jessica Drew, fue envenenada por radiación a temprana edad, por lo cual fue inyectada con un misterioso suero arácnido y recibió así un acelerador genético durante años. Jessica emergió como adulta, sin memoria y poderes inimaginables, un picotazo venenoso bioeléctrico y la habilidad de emitir y manipular feromonas.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ebd221d-3581-4775-8f4c-086c377bc4c3/dfym10h-96fe2414-c390-4612-80d1-3b075e35d167.png/v1/fill/w_1280,h_854/across_the_spider_verse_jessica_drew_png_by_docbuffflash82_dfym10h-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMWViZDIyMWQtMzU4MS00Nzc1LThmNGMtMDg2YzM3N2JjNGMzXC9kZnltMTBoLTk2ZmUyNDE0LWMzOTAtNDYxMi04MGQxLTNiMDc1ZTM1ZDE2Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dZ3QuBejpqxGLQ0ZPoaN4UeDg3z6LbsyfVMHXL_zVFk",
@@ -56,31 +56,59 @@
         "class": "peni-style"
     },
     {
-        "name": "Spider Pig",
+        "name": "Spider-Ham",
         "alias": "Peter Porker",
         "data": "Peter Porker, el asombroso Spider-Ham, es una araña que fue mordida por la radioactiva May Porker, que lo transformo en un cerdo antropomórfico, pero con sus habilidades arácnidas intactas. Usando su recién descubierto genio científico, Peter creó lanza-redes mecánicos para reemplazar sus hilanderos naturales ahora perdidos y se convirtió en un nuevo superhéroe, el espectacular Spider-Ham.",
         "image": "https://i.pinimg.com/originals/4e/b7/d1/4eb7d15befd0ec16879e79e1c318da32.png",
         "class": "pig-style"
     },
     {
-        "name": "Spiderman",
+        "name": "Spider-Man",
         "alias": "Peter B. Parker",
         "data": "Peter B. Parker es un hombre que durante su adolescencia fue mordido por una araña radiactiva que le otorgó habilidades similares a la de una araña. Después de perder a su tío Benjamin Parker, Parker entendió que «Un gran poder conlleva una gran responsabilidad», convirtiéndose en el superhéroe conocido como Spider-Man.",
         "image": "https://i.pinimg.com/originals/eb/d7/b2/ebd7b2a8c73b37d7eddcee7ab2a75743.png",
         "class": "peterb-style"
     },
     {
-        "name": "Spider Cat",
+        "name": "Spider-Cat",
         "alias": "Cat",
         "data": "Spider-Cat es un gato americano de pelo corto que vivía en un apartamento ubicado en la Ciudad de Nueva York. Al igual que sus compañeros humanos, Spider-Cat obtuvo poderes arácnidos después de haber sido picado por una chinche de cama infectado con un virus de araña creado por el Jackal para infectar a los habitantes de la isla de Manhattan.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixy-b3629cb3-5f31-4a8b-aff4-1d58f587009e.png/v1/fill/w_842,h_949/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4eS1iMzYyOWNiMy01ZjMxLTRhOGItYWZmNC0xZDU4ZjU4NzAwOWUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uRlZoLsAt-8vd0pVsl6_7cX7bmkYhkqCHAN0FNiytv0",
         "class": "cat-style"
     },
     {
-        "name": "Spiderman",
+        "name": "Spider-Man",
         "alias": "Pavitr Prabhakar",
         "data": "Pavitr Prabhakar es un humilde joven de Munbai que obtuvo poderes arácnidos de un Yogui que se los entregó porque debía proteger al mundo de una amenaza demoniaca. Pero cuando Pavitr Prabhakar vio que unos ladrones querían asaltar a una mujer, no hizo nada por evitarlo. Su tío Bhim trató de ayudarla y los asaltantes lo mataron. Pavitr luego atrapa a los asaltantes y decide pelear contra el crimen como Spider-Man.",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixs-e72547a5-442b-4d1f-9f9d-0b5cd75afe26.png/v1/fill/w_1280,h_1283/across_the_spider_verse_pavitar_prabhakar_png_by_metropolis_hero1125_dfzaixs-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4cy1lNzI1NDdhNS00NDJiLTRkMWYtOWY5ZC0wYjVjZDc1YWZlMjYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ba7mYYOssm_C63c-WshGBNoS71Z4QFLfChrv4nhCoWU",
         "class": "pativr-style"
+    },
+    {
+        "name": "Spider-Mobile",
+        "alias": "Peter Parkedcar",
+        "data": "Peter Parkedcar también conocido como Spider-Mobile es una Spider-Person o más bien un vehículo asociado con la Spider-Society .",
+        "image": "https://i.redd.it/fq4dp9jk1j9b1.jpg",
+        "class": "car-style"
+    },
+    {
+        "name": "Spider-Therapist",
+        "alias": "Ezekiel Sims",
+        "data": "Ezekiel Sims, also known as Spider-Therapist, is a member of Miguel O'Hara's Spider-Society from an unknown reality. During one of his therapy sessions, his entire office was wrecked due to the heist after Miles.",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dg8i876-465942e0-75e5-44ac-b5cc-38dcdb24091b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGc4aTg3Ni00NjU5NDJlMC03NWU1LTQ0YWMtYjVjYy0zOGRjZGIyNDA5MWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iM7yMD8Lc1dTgW68tlGkFBvqaUNyllA-Xz7upHj2Y6k",
+        "class": "sims-style"
+    },
+    {
+        "name": "Mayday",
+        "alias": "May Parker",
+        "data": "May 'Mayday' Parker es una Spider-Person y la hija de Peter Benjamin Parker y Mary Jane Watson-Parker .",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f890a9ae-278c-482d-aa89-1e553b459310/dgce38h-9aa10a0a-60cd-481d-984a-7e63038c6982.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4OTBhOWFlLTI3OGMtNDgyZC1hYTg5LTFlNTUzYjQ1OTMxMFwvZGdjZTM4aC05YWExMGEwYS02MGNkLTQ4MWQtOTg0YS03ZTYzMDM4YzY5ODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GisN794g4EfRlvcQ-JrcU8mQJrzDUA_1Nvts5P-CHzE",
+        "class": "may-style"
+    },
+    {
+        "name": "Spider-Rex",
+        "alias": "Pter Ptarker",
+        "data": "Pter Ptarker, también conocido como Spider-Rex, es una versión alternativa de Peter Parker de Tierra-66 y miembro de la Spider-Society de Miguel O'Hara .",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dgracq5-545b7491-a258-4a56-8664-e54f40e7623b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGdyYWNxNS01NDViNzQ5MS1hMjU4LTRhNTYtODY2NC1lNTRmNDBlNzYyM2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V0irhhrEWMQ3Y1mQwEAiUP9fXN1bPtlOjfsQiQ9BZq8",
+        "class": "rex-style"
     }
 ]
