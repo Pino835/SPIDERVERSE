@@ -68,7 +68,7 @@ body {
 
 a {
     position: fixed;
-    bottom: 50px;
+    bottom: 10px;
     font-family: "Poppins", sans-serif;
     text-decoration: none;
     color: white;
@@ -98,21 +98,21 @@ a:hover {
 
 .gwen-style {
     position: fixed;
-    left: 50%;
+    left: 60%;
     bottom: 0;
     width: 350px;
 }
 
 .noir-style {
     position: fixed;
-    left: 50%;
+    left: 55%;
     bottom: -10px;
     width: 500px;
 }
 
 .punk-style {
     position: fixed;
-    left: 50%;
+    left: 60%;
     bottom: -30px;
     width: 500px;
 }
@@ -121,6 +121,7 @@ a:hover {
     position: fixed;
     left: 52%;
     width: 600px;
+    bottom: 50px;
 }
 
 .ben-style {
@@ -193,10 +194,30 @@ a:hover {
     bottom: 50px;
 }
 
-img {
+.lego-style {
     position: fixed;
-    left: 50%;
-    bottom: 70px;
-    width: 410px;
+    left: 45%;
+    width: 700px;
+    bottom: 75px;
 }
 
+.byte-style {
+    position: fixed;
+    left: 50%;
+    width: 600px;
+    bottom: 30px;
+}
+
+.cowboy-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 50px;
+}
+
+.sun-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
