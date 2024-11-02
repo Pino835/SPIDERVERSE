@@ -65,3 +65,35 @@ async function loadPerson() {
         alert('Hubo un error al cargar los datos del personaje');
     }
 }
+
+function showHeroes() {
+    // Mostrar contenedores de héroes
+    document.getElementById("heroes-row1").style.display = "flex";
+    document.getElementById("heroes-row2").style.display = "flex";
+    document.getElementById("heroes-row3").style.display = "flex";
+    document.getElementById("heroes-row4").style.display = "flex";
+    document.getElementById("heroes-row5").style.display = "flex";
+    
+    // Ocultar contenedores de villanos
+    document.getElementById("villains-row1").style.display = "none";
+    document.getElementById("villains-row2").style.display = "none";
+
+    document.getElementById("hero-btn").style.display = "none";
+    document.getElementById("villain-btn").style.display = "inline-block";
+}
+
+function showVillains() {
+    // Mostrar contenedores de villanos
+    document.getElementById("villains-row1").style.display = "flex";
+    document.getElementById("villains-row2").style.display = "flex";
+    
+    // Ocultar contenedores de héroes
+    document.getElementById("heroes-row1").style.display = "none";
+    document.getElementById("heroes-row2").style.display = "none";
+    document.getElementById("heroes-row3").style.display = "none";
+    document.getElementById("heroes-row4").style.display = "none";
+    document.getElementById("heroes-row5").style.display = "none";
+
+    document.getElementById("villain-btn").style.display = "none";
+    document.getElementById("hero-btn").style.display = "inline-block";
+}

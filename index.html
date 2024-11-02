@@ -14,9 +14,18 @@
 
     <input type="text" id="input-box" placeholder="FIND YOUR SPIDERMAN" onkeyup="filterCards()">
 
+    <button id="hero-btn" style="display: none;" onclick="showHeroes()">
+        <img src="https://cdn4.iconfinder.com/data/icons/heroes-villains-vol-2-colored/100/Spiderman-512.png" alt="Icono">
+    </button>
+    <button id="villain-btn" onclick="showVillains()">
+        <img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Cinema-Spiderman-Head-icon.png" alt="Icono">
+    </button>
+
     <br><br><br>
 
-    <div class="container1">
+    <!-- HEROES -->
+
+    <div id="heroes-row1" class="container1">
 
         <a href="character.html?name=Miles Morales">
             <div class="card">
@@ -60,7 +69,7 @@
 
     </div>
 
-    <div class="container1">
+    <div id="heroes-row2" class="container1">
 
         <a href="character.html?name=Hobart Brown">
             <div class="card">
@@ -104,7 +113,7 @@
 
     </div>
 
-    <div class="container1">
+    <div id="heroes-row3" class="container1">
 
         <a href="character.html?name=Peter Porker">
             <div class="card">
@@ -148,7 +157,7 @@
 
     </div>
 
-    <div class="container1">
+    <div id="heroes-row4" class="container1">
 
         <a href="character.html?name=Peter Parkedcar">
             <div class="card">
@@ -192,7 +201,7 @@
 
     </div>
 
-    <div class="container1">
+    <div id="heroes-row5" class="container1">
 
         <a href="character.html?name=Peter Parker Lego">
             <div class="card">
@@ -234,6 +243,96 @@
             </div>
         </a>
 
+    </div>
+
+    <!-- VILLANOS -->
+
+    <div id="villains-row1" class="container2" style="display: none;">
+
+        <a href="character.html?name=Jonatan Ohnn">
+            <div class="card">
+                <img src="https://i.redd.it/hoip3a60g5kb1.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>THE SPOT</b></h4>
+                    <p>JONATAN OHNN</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="character.html?name=Adriano Tumino">
+            <div class="card">
+                <img src="https://i.ytimg.com/vi/gyHe3QTzBUo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfuKjij0BfmPVupIm2Mi7SgmLPIQ" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>VULTURE</b></h4>
+                    <p>ADRIANO TUMINO</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="character.html?name=Wilson Fisk">
+            <div class="card">
+                <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/kingpin-2.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>KINGPIN</b></h4>
+                    <p>WILSON FISK</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="character.html?name=Aaron Davis">
+            <div class="card">
+                <img src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24694787/4k_spidermaninto_animationscreencaps.com_12832.jpg?quality=90&strip=all&crop=18.75,0,62.5,100" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>PROWLER</b></h4>
+                    <p>AARON DAVIS</p>
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+    <div id="villains-row2" class="container2" style="display: none;">
+
+        <a href="character.html?name=Olivia Octavius">
+            <div class="card">
+                <img src="https://www.indiewire.com/wp-content/uploads/2019/02/SpiderVerse-Ock.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>DOCTOR OCTOPUS</b></h4>
+                    <p>OLIVIA OCTAVIUS</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="character.html?name=Norman Osborn">
+            <div class="card">
+                <img src="https://images5.alphacoders.com/997/thumb-1920-997333.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>GREEN GOBLIN</b></h4>
+                    <p>NORMAN OSBORN</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="character.html?name=Lonnie Lincoln">
+            <div class="card">
+                <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-into-the-spider-verse-tombstone.jpeg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>TOMBSTONE</b></h4>
+                    <p>Lonnie Lincoln</p>
+                </div>
+            </div>
+        </a>
+
+        <a href="character.html?name=Mac Gargan">
+            <div class="card">
+                <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/10/scorpion-feature.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>SCORPION</b></h4>
+                    <p>MAC GARGAN</p>
+                </div>
+            </div>
+        </a>
+        
     </div>
 
     <script src="script.js"></script>
