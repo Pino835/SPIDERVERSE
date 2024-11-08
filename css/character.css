@@ -82,6 +82,8 @@ a:hover {
     background-color: white;
 }
 
+/* HEROES */
+
 .miles-style {
     position: fixed;
     left: 55%;
@@ -216,6 +218,64 @@ a:hover {
 }
 
 .sun-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+/* VILLAINS */
+
+.spot-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.vulture-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.kingpin-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.prowler-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.octopus-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.goblin-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.tomb-style {
+    position: fixed;
+    left: 60%;
+    width: 300px;
+    bottom: 60px;
+}
+
+.scorpion-style {
     position: fixed;
     left: 60%;
     width: 300px;
