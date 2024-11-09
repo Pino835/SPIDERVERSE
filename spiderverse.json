@@ -2,7 +2,20 @@
     {
         "name": "Spider-Man",
         "alias": "Miles Morales",
-        "data": "Miles Gonzalo Morales es un adolescente de ascendencia afroamericana y latina residente en Brooklyn; quien después de haber sido mordido por una araña genéticamente modificada diseñada por el némesis de Spider-Man, Norman Osborn, asumió la identidad de Spider-Man en el Universo Ultimate tras la muerte de Peter Parker.",
+        "data": [
+            "Miles Morales es un adolescente de Brooklyn, Nueva York, que adquiere habilidades similares a las de Spider-Man después de ser mordido por una araña genéticamente alterada. A diferencia de Peter Parker, Miles es de ascendencia afroamericana y puertorriqueña. Originalmente fue presentado en la línea Ultimate de los cómics de Marvel, pero debido a su popularidad, fue integrado en el universo principal de Marvel. Miles asume el papel de Spider-Man tras la aparente muerte de Peter Parker en su universo y decide honrar su legado luchando contra el crimen y protegiendo a los inocentes."
+                ],
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/miles-no-mask_ver_1.png",
         "class": "miles-style"
     },
@@ -10,13 +23,35 @@
         "name": "Spider-Man 2099",
         "alias": "Miguel O'Hara",
         "data": "Miguel O'Hara es un científico que opera como Spider-Man en el año 2099.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixl-fd91f627-69b1-4abf-97a6-fea48795635d.png/v1/fill/w_1280,h_1540/across_the_spider_verse_miguel_o_hara_png_by_metropolis_hero1125_dfzaixl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU0MCIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4bC1mZDkxZjYyNy02OWIxLTRhYmYtOTdhNi1mZWE0ODc5NTYzNWQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6x77Q2FOH5XGyJ-ZJImN-7l-vTNOQbSDJ03uS5WqHSk",
         "class": "miguel-style"
     },
     {
         "name": "Spider-Gwen",
         "alias": "Gwen Stacy",
-        "data": "Gwendolyne Maxine o Gwen Stacy es la hija del Capitán George Stacy y una joven estudiante, amante de la música, que fue picada por una araña radiactiva. Esto provocó que adquiriera poderes arácnidos.",
+        "data": "En la Tierra-65, Gwen Stacy es mordida por una araña radiactiva y asume el rol de Spider-Woman. Tras la trágica muerte de su amigo Peter Parker, se convierte en heroína para honrar su memoria y combatir el crimen. En su universo, también enfrenta conflictos con la ley y otros héroes debido a su identidad secreta.",
+        "powers": [
+            "Sentido arácnido: La alerta de peligros inminentes, permitiéndole reaccionar rápidamente.",
+            "Fuerza sobrehumana: Le otorga habilidades físicas mejoradas para el combate",
+            "Adhesión a superficies: Puede trepar y aferrarse a paredes y techos.",
+            "Agilidad y reflejos mejorados: Su agilidad y velocidad de reacción son superiores, dándole ventaja en combate."
+        ],
+        "skills": [
+            "Habilidades de combate: Entrenada en el uso de movimientos acrobáticos y técnicas de pelea.",
+            "Baterista: Es miembro de una banda de rock, lo que complementa su identidad única.",
+            "Intelecto y estrategia: Capaz de resolver problemas y crear estrategias en situaciones difíciles."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f890a9ae-278c-482d-aa89-1e553b459310/dgce386-80e98865-eb88-485c-83a9-9b573a31ec7f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4OTBhOWFlLTI3OGMtNDgyZC1hYTg5LTFlNTUzYjQ1OTMxMFwvZGdjZTM4Ni04MGU5ODg2NS1lYjg4LTQ4NWMtODNhOS05YjU3M2EzMWVjN2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NU8FhYOXIiM6J0cH4NBonhMbFfsIcXf_8iNfvnKDqPU",
         "class": "gwen-style"
     },
@@ -24,6 +59,17 @@
         "name": "Spider-Man Noir",
         "alias": "Peter Parker",
         "data": "Spider-Man Noir es una versión alternativa de Peter Parker en la década de 1930. Impulsado por el idealismo y valores que sus tíos May y Ben le enseñaron, el temerario joven Peter Parker adopta el periodismo como una fuerza para luchar contra el mal y darle el poder a los inocentes y necesitados.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1a9a6fa-bf6d-4ac3-b103-5ed371db466d/ddym783-2087c246-f5fd-4d70-9fdf-a322fa6b6cf3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxYTlhNmZhLWJmNmQtNGFjMy1iMTAzLTVlZDM3MWRiNDY2ZFwvZGR5bTc4My0yMDg3YzI0Ni1mNWZkLTRkNzAtOWZkZi1hMzIyZmE2YjZjZjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Pi5bo8Ufri18XB9mFiRnP-8BjGdOtITxkIRHyRD1Lrc",
         "class": "noir-style"
     },
@@ -31,6 +77,17 @@
         "name": "Spider-Punk",
         "alias": "Hobart Brown",
         "data": "Spider-Man o Hobie Brown en su identidad civil es un joven afroamericano que fue picado por una araña radiactiva y asumió el papel de Spider-Man para liderar un ejercito contra la tiranía del Presidente Norman Osborn. Tras liberar a su mundo de la opresión, se unió al grupo de Superior Spider-Man para combatir a Los Herederos.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixe-ef7438b7-8045-4c3e-93bd-7c437f999791.png/v1/fill/w_1280,h_1601/across_the_spider_verse_hobie_brown_png_by_metropolis_hero1125_dfzaixe-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMSIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4ZS1lZjc0MzhiNy04MDQ1LTRjM2UtOTNiZC03YzQzN2Y5OTk3OTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2xlX4_F09z4jFfCQjGhvXb4OhO2cO1fe3QdE0AiVLfE",
         "class": "punk-style"
     },
@@ -38,6 +95,17 @@
         "name": "Spider-Woman",
         "alias": "Jessica Drew",
         "data": "Spider-Woman cuya identidad es Jessica Drew, fue envenenada por radiación a temprana edad, por lo cual fue inyectada con un misterioso suero arácnido y recibió así un acelerador genético durante años. Jessica emergió como adulta, sin memoria y poderes inimaginables, un picotazo venenoso bioeléctrico y la habilidad de emitir y manipular feromonas.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ebd221d-3581-4775-8f4c-086c377bc4c3/dfym10h-96fe2414-c390-4612-80d1-3b075e35d167.png/v1/fill/w_1280,h_854/across_the_spider_verse_jessica_drew_png_by_docbuffflash82_dfym10h-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMWViZDIyMWQtMzU4MS00Nzc1LThmNGMtMDg2YzM3N2JjNGMzXC9kZnltMTBoLTk2ZmUyNDE0LWMzOTAtNDYxMi04MGQxLTNiMDc1ZTM1ZDE2Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dZ3QuBejpqxGLQ0ZPoaN4UeDg3z6LbsyfVMHXL_zVFk",
         "class": "jess-style"
     },
@@ -45,6 +113,17 @@
         "name": "Scarlet Spidern",
         "alias": "Ben Reilly",
         "data": "Ben Reilly fue un clon de Peter Parker creado por el Jackal. Estuvo años alejado de Parker, y supuestamente desaparecido en un autoexilio de cinco años por Nueva York, pero regresó justo cuando el original pasaba un mal momento, con su tía May convaleciente. Colaboró con Parker bajo el nombre de Scarlet Spider. En un giro de los acontecimientos, más adelante, unas pruebas revelaron que Peter era el verdadero clon.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9d54c40-e2e2-4f98-9b52-535211193e7d/dftwfkn-000859e3-8ed9-4183-ba84-ffb54fa2ed20.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q5ZDU0YzQwLWUyZTItNGY5OC05YjUyLTUzNTIxMTE5M2U3ZFwvZGZ0d2Zrbi0wMDA4NTllMy04ZWQ5LTQxODMtYmE4NC1mZmI1NGZhMmVkMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qATZmI2KhGwWNxi7zdkdZKR-W8XbI5BGis55KckAhns",
         "class": "ben-style"
     },
@@ -52,6 +131,17 @@
         "name": "Sp//dr",
         "alias": "Peni Parker",
         "data": "Peni Parker es una niña que tuvo que pilotar un traje mecánico llamado SP//dr, después de que el piloto original, su padre, fuera asesinado. Sus tíos le animan a tomar su lugar debido a que la máquina solamente responde a alguien con una genética similar al del piloto original. Aceptando esta responsabilidad, Peni se convierte en el nuevo SP//dr para proteger su ciudad y continuar el legado de su padre.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea196117-0b64-49b7-b13f-79f43cf77e53/dcv863p-98cb2fc0-ae31-4cbe-8bce-54d3e77214f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhMTk2MTE3LTBiNjQtNDliNy1iMTNmLTc5ZjQzY2Y3N2U1M1wvZGN2ODYzcC05OGNiMmZjMC1hZTMxLTRjYmUtOGJjZS01NGQzZTc3MjE0ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kagl80C-2DIs-X3K8D1eAdEYbgaPBpj9KspPD1R2vGc",
         "class": "peni-style"
     },
@@ -59,6 +149,17 @@
         "name": "Spider-Ham",
         "alias": "Peter Porker",
         "data": "Peter Porker, el asombroso Spider-Ham, es una araña que fue mordida por la radioactiva May Porker, que lo transformo en un cerdo antropomórfico, pero con sus habilidades arácnidas intactas. Usando su recién descubierto genio científico, Peter creó lanza-redes mecánicos para reemplazar sus hilanderos naturales ahora perdidos y se convirtió en un nuevo superhéroe, el espectacular Spider-Ham.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://i.pinimg.com/originals/4e/b7/d1/4eb7d15befd0ec16879e79e1c318da32.png",
         "class": "pig-style"
     },
@@ -66,6 +167,17 @@
         "name": "Spider-Man",
         "alias": "Peter B. Parker",
         "data": "Peter B. Parker es un hombre que durante su adolescencia fue mordido por una araña radiactiva que le otorgó habilidades similares a la de una araña. Después de perder a su tío Benjamin Parker, Parker entendió que «Un gran poder conlleva una gran responsabilidad», convirtiéndose en el superhéroe conocido como Spider-Man.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://i.pinimg.com/originals/eb/d7/b2/ebd7b2a8c73b37d7eddcee7ab2a75743.png",
         "class": "peterb-style"
     },
@@ -73,6 +185,17 @@
         "name": "Spider-Cat",
         "alias": "Cat",
         "data": "Spider-Cat es un gato americano de pelo corto que vivía en un apartamento ubicado en la Ciudad de Nueva York. Al igual que sus compañeros humanos, Spider-Cat obtuvo poderes arácnidos después de haber sido picado por una chinche de cama infectado con un virus de araña creado por el Jackal para infectar a los habitantes de la isla de Manhattan.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixy-b3629cb3-5f31-4a8b-aff4-1d58f587009e.png/v1/fill/w_842,h_949/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4eS1iMzYyOWNiMy01ZjMxLTRhOGItYWZmNC0xZDU4ZjU4NzAwOWUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uRlZoLsAt-8vd0pVsl6_7cX7bmkYhkqCHAN0FNiytv0",
         "class": "cat-style"
     },
@@ -80,6 +203,17 @@
         "name": "Spider-Man",
         "alias": "Pavitr Prabhakar",
         "data": "Pavitr Prabhakar es un humilde joven de Munbai que obtuvo poderes arácnidos de un Yogui que se los entregó porque debía proteger al mundo de una amenaza demoniaca. Pero cuando Pavitr Prabhakar vio que unos ladrones querían asaltar a una mujer, no hizo nada por evitarlo. Su tío Bhim trató de ayudarla y los asaltantes lo mataron. Pavitr luego atrapa a los asaltantes y decide pelear contra el crimen como Spider-Man.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaixs-e72547a5-442b-4d1f-9f9d-0b5cd75afe26.png/v1/fill/w_1280,h_1283/across_the_spider_verse_pavitar_prabhakar_png_by_metropolis_hero1125_dfzaixs-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWl4cy1lNzI1NDdhNS00NDJiLTRkMWYtOWY5ZC0wYjVjZDc1YWZlMjYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ba7mYYOssm_C63c-WshGBNoS71Z4QFLfChrv4nhCoWU",
         "class": "pativr-style"
     },
@@ -87,6 +221,17 @@
         "name": "Spider-Mobile",
         "alias": "Peter Parkedcar",
         "data": "Peter Parkedcar también conocido como Spider-Mobile es una Spider-Person o más bien un vehículo asociado con la Spider-Society .",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://i.redd.it/fq4dp9jk1j9b1.jpg",
         "class": "car-style"
     },
@@ -94,6 +239,17 @@
         "name": "Spider-Therapist",
         "alias": "Ezekiel Sims",
         "data": "Ezekiel Sims, also known as Spider-Therapist, is a member of Miguel O'Hara's Spider-Society from an unknown reality. During one of his therapy sessions, his entire office was wrecked due to the heist after Miles.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dg8i876-465942e0-75e5-44ac-b5cc-38dcdb24091b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGc4aTg3Ni00NjU5NDJlMC03NWU1LTQ0YWMtYjVjYy0zOGRjZGIyNDA5MWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iM7yMD8Lc1dTgW68tlGkFBvqaUNyllA-Xz7upHj2Y6k",
         "class": "sims-style"
     },
@@ -101,6 +257,17 @@
         "name": "Mayday",
         "alias": "May Parker",
         "data": "May 'Mayday' Parker es una Spider-Person y la hija de Peter Benjamin Parker y Mary Jane Watson-Parker .",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f890a9ae-278c-482d-aa89-1e553b459310/dgce38h-9aa10a0a-60cd-481d-984a-7e63038c6982.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4OTBhOWFlLTI3OGMtNDgyZC1hYTg5LTFlNTUzYjQ1OTMxMFwvZGdjZTM4aC05YWExMGEwYS02MGNkLTQ4MWQtOTg0YS03ZTYzMDM4YzY5ODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GisN794g4EfRlvcQ-JrcU8mQJrzDUA_1Nvts5P-CHzE",
         "class": "may-style"
     },
@@ -108,6 +275,17 @@
         "name": "Spider-Rex",
         "alias": "Pter Ptarker",
         "data": "Pter Ptarker, también conocido como Spider-Rex, es una versión alternativa de Peter Parker de Tierra-66 y miembro de la Spider-Society de Miguel O'Hara .",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dgracq5-545b7491-a258-4a56-8664-e54f40e7623b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGdyYWNxNS01NDViNzQ5MS1hMjU4LTRhNTYtODY2NC1lNTRmNDBlNzYyM2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V0irhhrEWMQ3Y1mQwEAiUP9fXN1bPtlOjfsQiQ9BZq8",
         "class": "rex-style"
     },
@@ -115,6 +293,17 @@
         "name": "Spider-Man",
         "alias": "Peter Parker Lego",
         "data": "El superhéroe en su versión de LEGO.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/71a052d5-3084-4191-af4e-5d44e308ed25/dhcas1i-847dc2c4-e986-4e3f-a611-b0cf046e18c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxYTA1MmQ1LTMwODQtNDE5MS1hZjRlLTVkNDRlMzA4ZWQyNVwvZGhjYXMxaS04NDdkYzJjNC1lOTg2LTRlM2YtYTYxMS1iMGNmMDQ2ZTE4YzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iY3QYUudwXargjCaMoLxRlugi_yRh_cywC-xzGLexYs",
         "class": "lego-style"
     },
@@ -122,6 +311,17 @@
         "name": "Spider-Byte",
         "alias": "Margo Kess",
         "data": "Al vivir en un mundo donde las personas pasan la mayor parte de su tiempo como avatares virtuales en el ciberespacio , Margo Kess decidió actuar como una justiciera enmascarada llamada Spider-Byte y ayudar a detener el cibercrimen como una forma de servicio comunitario",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf853092-d54d-4bd0-842b-1facd2b89c32/dg2j2kt-3f4a2cdc-078c-4339-bcc5-2c7487d9eb6c.png/v1/fill/w_950,h_841/margo_kess_spider_byte__atsv_png_by_iwasboredsoididthis_dg2j2kt-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk4OCIsInBhdGgiOiJcL2ZcL2JmODUzMDkyLWQ1NGQtNGJkMC04NDJiLTFmYWNkMmI4OWMzMlwvZGcyajJrdC0zZjRhMmNkYy0wNzhjLTQzMzktYmNjNS0yYzc0ODdkOWViNmMucG5nIiwid2lkdGgiOiI8PTEwMTQ2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ATNIsU_CIFqv5i09M5ddEd58g0njkiYJD_foWJumg-M",
         "class": "byte-style"
     },
@@ -129,6 +329,17 @@
         "name": "Web-Slinger",
         "alias": "Patrick O'Hara",
         "data": "Patrick O'Hara era un pistolero que viajaba por el oeste dando espectáculos itinerantes. Michael Morbius también trabajaba con él, vendiéndole un elixir cuya receta le había sido dada por un chamán apache. Un día el elixir bañó a una araña radioactiva que mordió a Patrick y a su caballo Widow dándoles a ambos poderes arácnidos. El Dr. Morbius también bebió su elixir, pero eso lo convirtió en un vampiro , y Patrick que para entonces había asumido la identidad de Web-Slinger y el alias de Ponderosa Parker se enteró de que Morbius había comenzado a matar personas y secuestrar niños y decidió detenerlo.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/dhy2slg-71cc81b7-f4d7-470f-8247-7cf748c933fa.png/v1/fill/w_1280,h_2161/web_slinger___transparent__by_speedcam_dhy2slg-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MSIsInBhdGgiOiJcL2ZcLzFkYmMxOTM1LTY1NDItNGVlMy04MjJmLTEzNWNmZjRiYTYyY1wvZGh5MnNsZy03MWNjODFiNy1mNGQ3LTQ3MGYtODI0Ny03Y2Y3NDhjOTMzZmEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.jfa1Bu9dypnH5n2ASQp6FK3pP84nKBBmgd53qKuYA4k",
         "class": "cowboy-style"
     },
@@ -136,6 +347,17 @@
         "name": "Sun-Spider",
         "alias": "Charlotte Webber",
         "data": "Hace tres años, Charlotte Webber fue mordida por una araña radiactiva y desde entonces ha estado operando como araña solar . Su EDS no desapareció cuando obtuvo sus poderes de araña, pero siguió siendo hiperflexible y necesitaba muletas para estabilizarse. En su vida civil, también usa una silla de ruedas.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb1a17dd-269d-42fa-8ae3-c4b359e61a57/dg6r5wi-0c407e36-5c92-4312-8c69-28d30445d690.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViMWExN2RkLTI2OWQtNDJmYS04YWUzLWM0YjM1OWU2MWE1N1wvZGc2cjV3aS0wYzQwN2UzNi01YzkyLTQzMTItOGM2OS0yOGQzMDQ0NWQ2OTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5kivWy09ZnvXk6wxBunNA2TxegEvnQIYJcm83CLngpQ",
         "class": "sun-style"
     },
@@ -143,6 +365,17 @@
         "name": "The Spot",
         "alias": "Johnathon Ohnn",
         "data": "Una vez fue un científico en Alchemax que transportó una araña radiactiva de la Tierra-42 a la Tierra-1610B usando el Supercolisionador de Kingpin , lo que provocó que mordiera a Miles Morales y lo convirtiera en Spider-Man. Durante la destrucción del Supercolisionador, Johnathon fue mutado por un lote de materia oscura que llevaba, transformándolo en un supervillano viajero del universo, que a pesar de comenzar como incompetente, termina convirtiéndose en una amenaza masiva para todo el Multiverso al fortalecer su poder visitando a los Alchemaxes de varios universos, convirtiéndose en el archienemigo de Miles en el proceso.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dfzaknd-d277d598-2b01-4bdf-8095-441aa3984d9c.png/v1/fill/w_1280,h_1313/across_the_spider_verse_the_spot_png_by_metropolis_hero1125_dfzaknd-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMxMyIsInBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGZ6YWtuZC1kMjc3ZDU5OC0yYjAxLTRiZGYtODA5NS00NDFhYTM5ODRkOWMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Z0dWqaztbegntopKGdCGST1TN2AlCgJg09STDx0y0JU",
         "class": "spot-style"
     },
@@ -150,6 +383,17 @@
         "name": "Vulture",
         "alias": "Adriano Tumino",
         "data": "Adriano Tumino , autoproclamado artista e ingeniero, adopta el apodo de Vulture . Originario de una realidad inspirada en el Renacimiento italiano , Vulture fue capturado por la Spider-Society luego de sus acciones destructivas en el Museo Guggenheim dentro del universo de la Tierra-65 .",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://pbs.twimg.com/media/FyV_1hlXgAAel02.jpg:large",
         "class": "vulture-style"
     },
@@ -157,6 +401,17 @@
         "name": "Kingpin",
         "alias": "Wilson Fisk",
         "data": "Wilson Grant Fisk es un jefe criminal conocido como Kingpin que perdió a su familia en un accidente automovilístico luego de una batalla con Spider-Man . Desarrolló el deseo de recuperar a su esposa e hijo a través del desplazamiento multiversal cuando se asoció con Alchemax . Si bien mató a su enemigo, otras cinco Spider-People del Super-Colisionador de Alchemax se unieron contra él, y el joven Miles Morales lo hizo arrestar.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4eb534a4-f445-40d1-845f-d9f5f96c13a2/dg2imcc-8614d3e0-49af-4d41-a422-c2f4738c92c5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlYjUzNGE0LWY0NDUtNDBkMS04NDVmLWQ5ZjVmOTZjMTNhMlwvZGcyaW1jYy04NjE0ZDNlMC00OWFmLTRkNDEtYTQyMi1jMmY0NzM4YzkyYzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ikpZxGshrrz5PCtjmNqhDla9TBrSyfn89HS00ziySts",
         "class": "kingpin-style"
     },
@@ -164,13 +419,35 @@
         "name": "Prowler",
         "alias": "Aaron Davis",
         "data": "Aaron Davis , también conocido como Prowler y Tío Aaron , es un antagonista importante en el largometraje número 18 de Sony Pictures Animation , Spider-Man: Into the Spider-Verse , la primera entrega de la trilogía Spider-Verse. Era el hermano de Jefferson Davis y el tío de Miles Morales , quien operaba en secreto como un eminente asesino y principal ejecutor del Kingpin hasta los eventos de la película.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dhn3fzy-2b93586b-ca61-4ff5-ab16-c8a06bd3ba46.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGhuM2Z6eS0yYjkzNTg2Yi1jYTYxLTRmZjUtYWIxNi1jOGEwNmJkM2JhNDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dSmLiDT65aR6afTX3BmTWeIc24nJVmsSYPlcFFiIhWM",
         "class": "prowler-style"
     },
     {
         "name": "Doctor Octopus",
         "alias": "Olivia Octavius",
-        "data": "La Dra. Olivia Octavius ​​era la científica principal y directora ejecutiva de Alchemax , también era en secreto la Doctora Octopus y había estado luchando contra Spider-Man durante años. Ella era efectivamente la asesora científica de Wilson Fisk . Con la financiación de Kingpin, intentó construir un dispositivo de portal interdimensional: creyendo que la convertiría en una científica mundialmente famosa debido al logro histórico. Spider-Gang logró detener el dispositivo de destruir el multiverso. Intentó detener a Spider-Gang, pero fue atropellada por un camión que salió volando del portal dimensional.",
+        "data": "La Dra. Olivia Octavius ​era la científica principal y directora ejecutiva de Alchemax , también era en secreto la Doctora Octopus y había estado luchando contra Spider-Man durante años. Ella era efectivamente la asesora científica de Wilson Fisk . Con la financiación de Kingpin, intentó construir un dispositivo de portal interdimensional: creyendo que la convertiría en una científica mundialmente famosa debido al logro histórico. Spider-Gang logró detener el dispositivo de destruir el multiverso. Intentó detener a Spider-Gang, pero fue atropellada por un camión que salió volando del portal dimensional.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://i.ytimg.com/vi/FbTwaFp4JGc/maxresdefault.jpg",
         "class": "octopus-style"
     },
@@ -178,6 +455,17 @@
         "name": "Green Goblin",
         "alias": "Norman Osborn",
         "data": "Green Goblin o conocido como Normal Osborn , es un antagonista único en Into the Spiderverse que sirve como alguien que desencadena una reacción en cadena a los eventos de Spiderverse. Sirve como un poderoso enemigo de Spiderman de la Tierra 1610 y ha luchado contra él antes. Creyendo que el rayo del Super Collider mataría a Spider-Man, lo empuja hacia el rayo que hace que se desarrollen todos los eventos de Spiderverse, pero muere por los escombros en el proceso.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecc902ea-1ffc-4fa2-9a5b-bb62cc09a029/dg7lrqr-8ee0aa74-f3dc-4995-ab0d-cd37a185d304.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjYzkwMmVhLTFmZmMtNGZhMi05YTViLWJiNjJjYzA5YTAyOVwvZGc3bHJxci04ZWUwYWE3NC1mM2RjLTQ5OTUtYWIwZC1jZDM3YTE4NWQzMDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ig1Nu-zRw53uYHuNKlo3GDxNm3ct6LMlkgfslzJT8nY",
         "class": "goblin-style"
     },
@@ -185,6 +473,17 @@
         "name": "Tombstone",
         "alias": "Lonnie Lincoln",
         "data": "Tombstone es uno de los antagonistas secundarios de Into the Spiderverse que trabajó como secuaz de Kingpin. Sirve como la mano derecha de Kingpin, quien lo conduce y lo acompaña en casi todo momento como guardaespaldas. Participa en la pelea de la casa en un intento de acabar con los Spider-people que fueron traídos por el colisionador de Kingpin. Esos Spider-people son capaces de frustrar potencialmente los planes de Kingpin de traer a su familia de regreso. Finalmente, en la pelea final, Tombstone es derrotado cuando es derribado por un automóvil explosivo de Spider-Man Noir . Al final de la película, es arrestado.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4cb61a69-e35b-4625-9358-bdedd40bc0d3/dhgy5be-d6186eae-ad94-4061-87f0-960a70f0c77a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjYjYxYTY5LWUzNWItNDYyNS05MzU4LWJkZWRkNDBiYzBkM1wvZGhneTViZS1kNjE4NmVhZS1hZDk0LTQwNjEtODdmMC05NjBhNzBmMGM3N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pOvdJCMlmH1PvE45jpnGpTBSv6GlYWMaOIUL_IWsfT4",
         "class": "tomb-style"
     },
@@ -192,6 +491,17 @@
         "name": "Scorpion",
         "alias": "Mac Gargan",
         "data": "Scorpion es uno de los antagonistas secundarios de Into the Spiderverse que trabajó como secuaz de Kingpin. Participa en la pelea de la casa en un intento de ayudar a Kingpin en su plan de recuperar a su familia luchando contra los Spider-People. Es capaz de destruir el robot SP//DR de Peni Parker , pero es derrotado rotundamente cuando Spider-Ham y Spider-Noir se unen a la lucha. En última instancia, no logra ayudar a Kingpin a obtener la victoria y se supone que es arrestado al final de la película.",
+        "powers": [
+            "Fuerza y agilidad mejoradas: Le dan habilidades físicas sobrehumanas.",
+            "Sentido arácnido: Le alerta de posibles peligros.",
+            "Camuflaje: Puede volverse invisible para moverse sigilosamente.",
+            "Ráfaga venenosa: Libera una descarga bioeléctrica que aturde a sus enemigos."
+        ],
+        "skills": [
+            "Combate: Tiene habilidades de lucha básicas, mejoradas con la experiencia.",
+            "Intelecto: Resuelve problemas de forma creativa y eficaz.",
+            "Conocimientos científicos: Es bueno en ciencias, lo que le ayuda en su rol como Spider-Man."
+        ],
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ebd221d-3581-4775-8f4c-086c377bc4c3/df10j5u-63d76510-7838-4a96-9778-39a7c94bb282.png/v1/fill/w_1280,h_854/into_the_spider_verse_scorpion_png_by_docbuffflash82_df10j5u-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMWViZDIyMWQtMzU4MS00Nzc1LThmNGMtMDg2YzM3N2JjNGMzXC9kZjEwajV1LTYzZDc2NTEwLTc4MzgtNGE5Ni05Nzc4LTM5YTdjOTRiYjI4Mi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NIOYjBLdNGy0wBHxk-LYxZXBFBYOUmmdEryWYbB6q0A",
         "class": "scorpion-style"
     }

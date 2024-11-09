@@ -56,16 +56,6 @@ body {
     margin-top: -90px; /* Ajuste del margen en lugar de posición relativa */
 }
 
-#data {
-    font-family: "Poppins", sans-serif;
-    color: white;
-    margin-top: -20px; /* Ajuste del margen */
-    background-color: red;
-    width: 50%;
-    padding: 10px;
-    border-radius: 5px;
-}
-
 a {
     position: fixed;
     bottom: 10px;
@@ -80,6 +70,39 @@ a {
 a:hover {
     color: black;
     background-color: white;
+}
+
+/* NUEVO */
+
+#tabs {
+    display: flex;
+    position: relative;
+    bottom: 50px;
+}
+
+.tab-btn {
+    border: none;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+}
+
+.tab-btn:hover {
+    background-color: white;
+    color: red;
+}
+
+.tab-content {
+    position: relative;
+    bottom: 40px;
+    width: 50%;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    background-color: #2c2c2c;
+    padding: 15px;
+    border-radius: 5px;
 }
 
 /* HEROES */
@@ -228,9 +251,9 @@ a:hover {
 
 .spot-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
-    bottom: 60px;
+    left: 55%;
+    width: 500px;
+    bottom: 40px;
 }
 
 .vulture-style {
@@ -242,42 +265,42 @@ a:hover {
 
 .kingpin-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
+    left: 55%;
+    width: 500px;
     bottom: 60px;
 }
 
 .prowler-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
+    left: 52%;
+    width: 600px;
     bottom: 60px;
 }
 
 .octopus-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
-    bottom: 60px;
+    left: 55%;
+    width: 500px;
+    bottom: 90px;
 }
 
 .goblin-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
+    left: 55%;
+    width: 500px;
     bottom: 60px;
 }
 
 .tomb-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
-    bottom: 60px;
+    left: 65%;
+    width: 250px;
+    bottom: 40px;
 }
 
 .scorpion-style {
     position: fixed;
-    left: 60%;
-    width: 300px;
+    left: 50%;
+    width: 600px;
     bottom: 60px;
 }

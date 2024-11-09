@@ -3,8 +3,8 @@ function filterCards() {
     let input = document.getElementById('input-box');
     let filter = input.value.toUpperCase(); // Convertir a mayúsculas para comparación sin distinción entre mayúsculas y minúsculas
 
-    // Obtener todos los contenedores con la clase container1
-    let containers = document.getElementsByClassName('container1');
+    // Obtener todos los contenedores con la clase container1 y container2
+    let containers = document.querySelectorAll('.container1, .container2');
 
     // Recorrer cada contenedor
     for (let j = 0; j < containers.length; j++) {
@@ -51,7 +51,13 @@ async function loadPerson() {
             nameElement.setAttribute('data-text', person.name);
             document.getElementById('name').textContent = person.name;
             document.getElementById('alias').textContent = person.alias;
-            document.getElementById('data').textContent = person.data;
+            document.getElementById('bio').textContent = person.data;
+            document.getElementById('powers').textContent = person.powers;
+            document.getElementById('skills').textContent = person.skills;
+
+            // Crear listas de viñetas para cada tab-content
+            populateTabContent('powers', person.powers);
+            populateTabContent('skills', person.skills);
 
             const imageElement = document.getElementById('image');
             imageElement.src = person.image;
@@ -64,6 +70,28 @@ async function loadPerson() {
         console.error('Error al cargar los datos:', error);
         alert('Hubo un error al cargar los datos del personaje');
     }
+}
+
+// Función para agregar contenido en formato de lista en cada tab
+function populateTabContent(tabId, items) {
+    const tabContent = document.getElementById(tabId);
+    tabContent.innerHTML = ''; // Limpiar contenido anterior
+
+    const ul = document.createElement('ul');
+    items.forEach(item => {
+        const li = document.createElement('li');
+        li.textContent = item;
+        ul.appendChild(li);
+    });
+    tabContent.appendChild(ul);
+}
+
+function showTab(tabName) {
+    let tabs = document.getElementsByClassName("tab-content");
+    for (let i = 0; i < tabs.length; i++) {
+        tabs[i].style.display = "none";
+    }
+    document.getElementById(tabName).style.display = "block";
 }
 
 function showHeroes() {

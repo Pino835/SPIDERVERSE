@@ -21,28 +21,43 @@ body {
     box-sizing: border-box;
 }
 
-#hero-btn {
+#hero-btn, #villain-btn {
     position: relative;
-    padding: 10px;
+    padding: 12px;
     border-radius: 5px;
-    bottom: -5px;
-    background-color: red;
+    bottom: 1px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
 }
 
-#hero-btn img {
-    width: 20px;
+#hero-btn {
+    background-color: red;
+    color: white;
 }
 
 #villain-btn {
-    position: relative;
-    padding: 10px;
-    border-radius: 5px;
-    bottom: -5px;
-    background-color: white;
+    background-color: #ddd;
+    color: black;
 }
 
-#villain-btn img {
+/* Efecto hover para ambos botones */
+#hero-btn:hover, #villain-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Efecto al hacer clic para ambos botones */
+#hero-btn:active, #villain-btn:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Ajustes para las imágenes */
+#hero-btn img, #villain-btn img {
     width: 20px;
+    vertical-align: middle;
 }
 
 .container1 {
