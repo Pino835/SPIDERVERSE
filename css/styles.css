@@ -198,3 +198,33 @@ body {
 .container2 .card:hover .container {
     color: black;
 }
+
+/* Animación base */
+.fade-in {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 1s ease, transform 1s ease;
+}
+
+/* Aplica el efecto al añadir la clase 'show' */
+.fade-in.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Retrasos específicos para cada elemento */
+#title {
+    transition-delay: 0s; /* Sin retraso para el título */
+}
+
+#input-box.show {
+    transition-delay: 0.5s;
+}
+
+#villain-btn.show {
+    transition-delay: 0.5s;
+}
+
+.container1.show {
+    transition-delay: 1.5s;
+}

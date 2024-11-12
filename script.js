@@ -1,3 +1,13 @@
+// Animation
+document.addEventListener("DOMContentLoaded", function() {
+    const fadeInElements = document.querySelectorAll(".fade-in");
+    const villainBtn = document.getElementById("villain-btn");
+    villainBtn.classList.add("show");
+    fadeInElements.forEach(element => {
+        element.classList.add("show");
+    });
+});
+
 function filterCards() {
     // Obtener el valor ingresado en el input
     let input = document.getElementById('input-box');
