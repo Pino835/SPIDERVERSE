@@ -105,6 +105,25 @@ a:hover {
     border-radius: 5px;
 }
 
+/* Animación base */
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease, transform 1s ease;
+}
+
+/* Aplica el efecto al añadir la clase 'show' */
+.fade-in.show {
+    opacity: 1;
+}
+
+#tabs.show {
+    transition-delay: 0.5s;
+}
+
+#bio.show {
+    transition-delay: 1.0s;
+}
+
 /* HEROES */
 
 .miles-style {

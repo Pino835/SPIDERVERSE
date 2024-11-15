@@ -8,26 +8,26 @@
 </head>
 <body onload="loadPerson()">
 
-    <div id="container-person">
+    <div id="container-person" class="fade-in">
         <h2 id="name" data-text=""></h2>
         <h3 id="alias"></h3>
         <img id="image" alt="Imagen del personaje">
     </div>
-
-    <div id="tabs">
+    
+    <div id="tabs" class="fade-in">
         <button class="tab-btn" onclick="showTab('bio')">Biografía</button>
         <button class="tab-btn" onclick="showTab('powers')">Poderes</button>
         <button class="tab-btn" onclick="showTab('skills')">Habilidades</button>
     </div>
     
-    <div id="bio" class="tab-content">Aquí va la biografia del personaje...</div>
-    <div id="powers" class="tab-content" style="display: none;">Aquí van los poderes del personaje...</div>
-    <div id="skills" class="tab-content" style="display: none;">Aquí van las habilidades del personaje...</div>
-
+    <div id="bio" class="tab-content fade-in">Aquí va la biografía del personaje...</div>
+    <div id="powers" class="tab-content fade-in" style="display: none;">Aquí van los poderes del personaje...</div>
+    <div id="skills" class="tab-content fade-in" style="display: none;">Aquí van las habilidades del personaje...</div>
+    
     <footer>
         <a href="index.html">VOLVER</a>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="scripts/character.js"></script>
 </body>
 </html>
