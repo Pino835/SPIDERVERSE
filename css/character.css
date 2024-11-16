@@ -20,34 +20,36 @@ body {
 #name::before {
     content: attr(data-text);
     position: absolute;
-    top: 0em;
-    left: 0em;
+    top: 0.04em; /* Ajuste constante para el efecto */
+    left: 0.04em; /* Ajuste constante para el efecto */
     color: #313f97;
     z-index: -1;
     transition: 0.2s;
 }
 
+/*
 #name:hover::before {
     top: 0.04em;
     left: 0.04em;
-}
+}*/
 
 #name::after {
     content: attr(data-text);
     position: absolute;
-    color: rgba(236, 34, 37, 0.1);
-    top: 0em;
-    left: 0em;
+    color: transparent;
+    top: -0.04em; /* Aplicar desplazamiento constante */
+    left: -0.04em; /* Aplicar desplazamiento constante */
+    background-size: 8px 8px;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-stroke: 1px #ec2225;
     transition: 0.2s;
 }
-
+/*
 #name:hover::after {
     top: -0.04em;
     left: -0.04em;
-}
+}*/
 
 #alias {
     font-family: "Poppins", sans-serif;
