@@ -21,6 +21,12 @@ body {
     box-sizing: border-box;
 }
 
+#button-container {
+    display: inline-block;
+    gap: 10px; /* Separación entre botones */
+    margin: 20px 0; /* Espaciado exterior */
+}
+
 #hero-btn, #villain-btn {
     position: relative;
     padding: 12px;
@@ -221,10 +227,10 @@ body {
     transition-delay: 0.5s;
 }
 
-#villain-btn.show {
+#button-container.show {
     transition-delay: 0.5s;
 }
 
 .container1.show {
-    transition-delay: 1.5s;
+    transition-delay: 1.0s;
 }

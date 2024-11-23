@@ -14,12 +14,14 @@
 
     <input type="text" id="input-box" class="fade-in" placeholder="FIND YOUR SPIDERMAN" onkeyup="filterCards()">
 
-    <button id="hero-btn" style="display: none;" onclick="showHeroes()">
-        <img src="https://cdn4.iconfinder.com/data/icons/heroes-villains-vol-2-colored/100/Spiderman-512.png" alt="Icono">
-    </button>
-    <button id="villain-btn" class="fade-in" onclick="showVillains()">
-        <img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Cinema-Spiderman-Head-icon.png" alt="Icono">
-    </button>
+    <div id="button-container" class="fade-in">
+        <button id="hero-btn" style="display: none;" onclick="showHeroes()">
+            <img src="https://cdn4.iconfinder.com/data/icons/heroes-villains-vol-2-colored/100/Spiderman-512.png" alt="Hero Icon">
+        </button>
+        <button id="villain-btn" onclick="showVillains()">
+            <img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Cinema-Spiderman-Head-icon.png" alt="Villain Icon">
+        </button>
+    </div>
 
     <br><br><br>
 
