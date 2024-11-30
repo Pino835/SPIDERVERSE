@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 body {
-    background: radial-gradient(#480d35 ,#17151d);
+    background: radial-gradient(#480d35, #17151d);
 }
 
 #container-person {
@@ -24,7 +24,6 @@ body {
     left: 0.04em; /* Ajuste constante para el efecto */
     color: #313f97;
     z-index: -1;
-    transition: 0.2s;
 }
 
 /*
@@ -43,8 +42,8 @@ body {
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-stroke: 1px #ec2225;
-    transition: 0.2s;
 }
+
 /*
 #name:hover::after {
     top: -0.04em;
@@ -59,8 +58,7 @@ body {
 }
 
 a {
-    position: fixed;
-    bottom: 10px;
+    bottom: 20px;
     font-family: "Poppins", sans-serif;
     text-decoration: none;
     color: white;
@@ -105,6 +103,51 @@ a:hover {
     background-color: #2c2c2c;
     padding: 15px;
     border-radius: 5px;
+}
+
+/* Para celulares (pantallas pequeñas) */
+@media (max-width: 768px) {
+    #container-person {
+        max-width: 95%;
+        margin-top: 0; /* Añade un margen superior al contenedor */
+    }
+
+    #name {
+        font-size: 40px;
+        margin: 10px 0; /* Añade margen superior e inferior */
+        position: relative; /* Asegura que ::before y ::after se posicionen correctamente */
+    }
+
+    #alias {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    img {
+        max-width: 250px;
+        margin-bottom: 200px; /* Añade espacio debajo de la imagen */
+    }
+
+    #tabs {
+        max-width: 50%;
+        margin-top: 40px; /* Espacio adicional para separar de otros elementos */
+    }
+
+    .tab-btn {
+        padding: 10px;
+        font-size: 14px;
+        width: 100%; /* Botón ocupa toda la fila */
+    }
+
+    .tab-content {
+        max-width: 90%;
+        font-size: 14px;
+    }
+
+    footer a {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
 }
 
 /* Animación base */
