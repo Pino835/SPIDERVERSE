@@ -9,6 +9,15 @@
 </head>
 <body>
 
+  <header>
+    <h1>SPIDERVERSE</h1>
+    <nav>
+      <a href="{% url 'home' %}">Inicio</a>
+      <a href="{% url 'spiders' %}">Héroes</a>
+      <a href="{% url 'villains' %}">Villanos</a>
+    </nav>
+  </header> 
+
   <main>
     {% block content %}{% endblock %}
   </main>

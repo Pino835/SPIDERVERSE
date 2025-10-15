@@ -2,31 +2,31 @@
 {% load static %}
 
 {% block title %}
-    {{spider.alias}}
+    {{villain.alias}}
 {% endblock %}
 
 {% block styles %}
-    <link rel="stylesheet" href="{% static 'css/spider.css' %}">
+    <link rel="stylesheet" href="{% static 'css/villain.css' %}">
 {% endblock %}
 
 {% block content %}
 
     <div class="page-container">
-        <img src="{{spider.image2}}" alt="{{spider.alias}}">
+        <img src="{{villain.image2}}" alt="{{villain.alias}}">
 
         <div class="info">
-            <h1 id="alias" data-text="{{spider.alias}}">{{spider.alias}}</h1>
-            <h2 id="name" data-text="{{spider.name}}">{{spider.name}}</h2>
+            <h1 id="alias" data-text="{{villain.alias}}">{{villain.alias}}</h1>
+            <h2 id="name" data-text="{{villain.name}}">{{villain.name}}</h2>
 
             <div id="container">
                 <h3 data-text="Universo">Universo</h3>
-                <p>{{spider.universe}}</p>
+                <p>{{villain.universe}}</p>
 
                 <h3 data-text="Descripción">Descripción</h3>
-                <p>{{spider.power}}</p>
+                <p>{{villain.power}}</p>
 
                 <h3 data-text="Poderes">Poderes</h3>
-                <p>{{spider.description}}</p>
+                <p>{{villain.description}}</p>
             </div>
         </div>
     </div>

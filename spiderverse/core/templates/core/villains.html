@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    SPIDERVERSE
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'css/villains.css' %}">
+{% endblock %}
+
+{% block content %}
+
+    <div class="card-container">
+        {% for villain in villains %}
+            <a href="{% url 'villain' villain.pk %}">
+                <div class="card">
+                    <img src="{{villain.image1}}" alt="{{villain.alias}}" style="width:100%">
+                    <div class="container">
+                        <h4><b>{{villain.alias}}</b></h4>
+                        <p>{{villain.name}}</p>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    SPIDERVERSE
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'css/spiders.css' %}">
+{% endblock %}
+
+{% block content %}
+
+    <div class="card-container">
+        {% for spider in spiders %}
+            <a href="{% url 'spider' spider.pk %}">
+                <div class="card">
+                    <img src="{{spider.image1}}" alt="{{spider.alias}}" style="width:100%">
+                    <div class="container">
+                        <h4><b>{{spider.alias}}</b></h4>
+                        <p>{{spider.name}}</p>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+
+{% endblock %}
