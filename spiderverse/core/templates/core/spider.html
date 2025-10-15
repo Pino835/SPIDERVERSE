@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    {{spider.alias}}
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'css/spider.css' %}">
+{% endblock %}
+
+{% block content %}
+
+    <h1 id="alias">{{spider.alias}}</h1>
+    <h2 id="name">{{spider.name}}</h2>
+
+    <img src="{{spider.image2}}">
+
+    <div id="container">
+        <h3>Universo</h3>
+        <p>{{spider.universe}}</p>
+        <h3>Descripcion</h3>
+        <p>{{spider.power}}</p>
+        <h3>Poderes</h3>
+        <p>{{spider.description}}</p>
+    </div>
+
+{% endblock %}

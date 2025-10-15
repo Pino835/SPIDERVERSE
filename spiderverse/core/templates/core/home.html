@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    SPIDERVERSE
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+{% endblock %}
+
+{% block content %}
+
+    <img id="title" src="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcVGHZzkA1q5OhwvlflcAWS-aWTcqxYKUrrPbVT0797Tl_tIP_lQnlUDnldKSoEBwTuJBt04ruUHm-Yt1Qgalm_ssWP2CIOOwCD_j7-wJzVi.png?r=d67" alt="">
+
+    <div class="card-container">
+        {% for spider in spiders %}
+            <a href="{% url 'spider' spider.pk %}">
+                <div class="card">
+                    <img src="{{spider.image1}}" alt="{{spider.alias}}" style="width:100%">
+                    <div class="container">
+                        <h4><b>{{spider.alias}}</b></h4>
+                        <p>{{spider.name}}</p>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+
+{% endblock %}
