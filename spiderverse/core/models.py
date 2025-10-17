@@ -8,6 +8,7 @@ class Spider(models.Model):
     power = models.TextField()
     image1 = models.URLField()
     image2 = models.URLField()
+    image3 = models.URLField(null=True)
     
     def __str__(self):
         return self.name
@@ -20,6 +21,7 @@ class Villain(models.Model):
     power = models.TextField()
     image1 = models.URLField()
     image2 = models.URLField()
+    image3 = models.URLField(null=True)
     
     def __str__(self):
         return self.name
