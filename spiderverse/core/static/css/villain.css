@@ -10,12 +10,36 @@
 }
 
 /* ----- COLUMNA IZQUIERDA (IMAGEN) ----- */
-.page-container img {
-  width: 100%;
-  max-width: 500px;
+
+.images {
+  display: flex;
+  flex-direction: column; /* 🔹 una imagen debajo de otra */
+  gap: 10px;
+  align-items: center;
 }
 
+.images img {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.images .main-image {
+    padding: 10px;
+    background-color: red;
+    margin-top: 20px;
+  }
+
 /* ----- COLUMNA DERECHA (INFO) ----- */
+
+.info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
 #alias {
   position: relative;
   color: white;
