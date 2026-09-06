@@ -1,6 +1,6 @@
 {% load static %}
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" style="scroll-behavior: smooth;">
 <head>
   <meta charset="UTF-8">
   <title>{% block title %}{% endblock %}</title>
@@ -13,8 +13,8 @@
     <h1>SPIDERVERSE</h1>
     <nav>
       <a href="{% url 'home' %}">Inicio</a>
-      <a href="{% url 'spiders' %}">Héroes</a>
-      <a href="{% url 'villains' %}">Villanos</a>
+      <a href="{% url 'home' %}#heroes">Héroes</a>
+      <a href="{% url 'home' %}#villanos">Villanos</a>
     </nav>
   </header> 
 

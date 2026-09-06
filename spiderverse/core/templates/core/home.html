@@ -7,11 +7,46 @@
 
 {% block styles %}
     <link rel="stylesheet" href="{% static 'css/home.css' %}">
+    <link rel="stylesheet" href="{% static 'css/cards.css' %}">
 {% endblock %}
 
 {% block content %}
 
     <img id="title" src="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcVGHZzkA1q5OhwvlflcAWS-aWTcqxYKUrrPbVT0797Tl_tIP_lQnlUDnldKSoEBwTuJBt04ruUHm-Yt1Qgalm_ssWP2CIOOwCD_j7-wJzVi.png?r=d67" alt="">
     <h1>CONOCE A TODOS LOS PROTAGONISTAS DEL SPIDERVERSE</h1>
+
+    <section id="heroes">
+        <h2 class="section-title">Héroes</h2>
+        <div class="card-container">
+            {% for spider in spiders %}
+                <a href="{% url 'spider' spider.pk %}">
+                    <div class="card card-hero">
+                        <img src="{{spider.image1}}" alt="{{spider.alias}}">
+                        <div class="container">
+                            <h4><b>{{spider.alias}}</b></h4>
+                            <p>{{spider.name}}</p>
+                        </div>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </section>
+
+    <section id="villanos">
+        <h2 class="section-title">Villanos</h2>
+        <div class="card-container">
+            {% for villain in villains %}
+                <a href="{% url 'villain' villain.pk %}">
+                    <div class="card card-villain">
+                        <img src="{{villain.image1}}" alt="{{villain.alias}}">
+                        <div class="container">
+                            <h4><b>{{villain.alias}}</b></h4>
+                            <p>{{villain.name}}</p>
+                        </div>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </section>
 
 {% endblock %}

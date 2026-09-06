@@ -1,21 +1,40 @@
+.back-link {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+  font-size: 18px;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+
+.back-link:hover {
+  opacity: 1;
+}
+
 .page-container {
   display: flex;
-  flex-direction: row; /* 🔹 Dos columnas */
+  flex-direction: row;
+  flex-wrap: wrap;
   align-items: flex-start;
   justify-content: center;
-  gap: 20px;
+  gap: 30px;
   max-width: 1200px;
   width: 100%;
-  margin-left: 20px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+  box-sizing: border-box;
 }
 
 /* ----- COLUMNA IZQUIERDA (IMAGEN) ----- */
 
 .images {
   display: flex;
-  flex-direction: column; /* 🔹 una imagen debajo de otra */
+  flex-direction: column;
   gap: 10px;
   align-items: center;
+  flex: 1 1 320px;
+  max-width: 450px;
 }
 
 .images img {
@@ -26,25 +45,31 @@
 }
 
 .images .main-image {
-    padding: 10px;
-    background-color: red;
-    margin-top: 20px;
-  }
+  padding: 10px;
+  background-color: rgba(49, 63, 151, 0.5);
+  margin-top: 20px;
+}
+
+.villain-page .images .main-image {
+  background-color: rgba(34, 139, 34, 0.4);
+}
 
 /* ----- COLUMNA DERECHA (INFO) ----- */
 
 .info {
-  flex: 1;
+  flex: 2 1 400px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  min-width: 0;
 }
 
 #alias {
   position: relative;
   color: white;
-  font-size: 95px;
+  font-size: clamp(40px, 8vw, 95px);
   margin: 0 20px;
+  word-break: break-word;
 }
 
 #alias::before {
@@ -74,8 +99,9 @@
 #name {
   position: relative;
   color: white;
-  font-size: 65px;
+  font-size: clamp(28px, 5vw, 65px);
   margin: 0 20px 20px 20px;
+  word-break: break-word;
 }
 
 #name::before {
@@ -100,7 +126,7 @@
 #container h3 {
   position: relative;
   color: white;
-  font-size: 35px;
+  font-size: clamp(22px, 3.5vw, 35px);
   margin: 0;
 }
 
@@ -119,7 +145,7 @@
 
 #container p {
   color: white;
-  font-size: 22px;
+  font-size: clamp(16px, 2vw, 22px);
   line-height: 1.6;
   margin: 0;
 }

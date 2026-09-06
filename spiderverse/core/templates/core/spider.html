@@ -6,15 +6,19 @@
 {% endblock %}
 
 {% block styles %}
-    <link rel="stylesheet" href="{% static 'css/spider.css' %}">
+    <link rel="stylesheet" href="{% static 'css/character.css' %}">
 {% endblock %}
 
 {% block content %}
 
+    <a class="back-link" href="{% url 'home' %}#heroes">← Volver</a>
+
     <div class="page-container">
         <div class="images">
             <img src="{{spider.image2}}" alt="{{spider.alias}}" class="main-image">
-            <img src="{{spider.image3}}" alt="{{spider.alias}}" class="secondary-image">
+            {% if spider.image3 %}
+                <img src="{{spider.image3}}" alt="{{spider.alias}}" class="secondary-image">
+            {% endif %}
         </div>
 
         <div class="info">

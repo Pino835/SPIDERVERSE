@@ -6,15 +6,19 @@
 {% endblock %}
 
 {% block styles %}
-    <link rel="stylesheet" href="{% static 'css/villain.css' %}">
+    <link rel="stylesheet" href="{% static 'css/character.css' %}">
 {% endblock %}
 
 {% block content %}
 
-    <div class="page-container">
+    <a class="back-link" href="{% url 'home' %}#villanos">← Volver</a>
+
+    <div class="page-container villain-page">
         <div class="images">
             <img src="{{villain.image2}}" alt="{{villain.alias}}" class="main-image">
-            <img src="{{villain.image3}}" alt="{{villain.alias}}" class="secondary-image">
+            {% if villain.image3 %}
+                <img src="{{villain.image3}}" alt="{{villain.alias}}" class="secondary-image">
+            {% endif %}
         </div>
 
         <div class="info">
