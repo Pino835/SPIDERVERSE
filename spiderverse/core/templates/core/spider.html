@@ -16,9 +16,7 @@
     <div class="page-container">
         <div class="images">
             <img src="{{spider.image2}}" alt="{{spider.alias}}" class="main-image">
-            {% if spider.image3 %}
-                <img src="{{spider.image3}}" alt="{{spider.alias}}" class="secondary-image">
-            {% endif %}
+            <img src="{{spider.image3}}" alt="{{spider.alias}}" class="secondary-image">
         </div>
 
         <div class="info">
@@ -26,14 +24,24 @@
             <h2 id="name" data-text="{{spider.name}}">{{spider.name}}</h2>
 
             <div id="container">
-                <h3 data-text="Universo">Universo</h3>
-                <p>{{spider.universe}}</p>
+                <div class="attribute">
+                    <h3 data-text="Universo">Universo</h3>
+                    <p>{{spider.universe}}</p>
+                </div>
 
-                <h3 data-text="Descripción">Descripción</h3>
-                <p>{{spider.description}}</p>
+                <div class="attribute">
+                    <h3 data-text="Descripción">Descripción</h3>
+                    <p>{{spider.description}}</p>
+                </div>
 
-                <h3 data-text="Poderes">Poderes</h3>
-                <p>{{spider.power}}</p>
+                <div class="attribute">
+                    <h3 data-text="Poderes">Poderes</h3>
+                    <ul class="power-list">
+                        {% for power in spider.power.splitlines %}
+                            {% if power %}<li>{{power}}</li>{% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
     </div>

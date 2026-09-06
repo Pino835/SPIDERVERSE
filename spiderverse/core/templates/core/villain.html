@@ -16,9 +16,7 @@
     <div class="page-container villain-page">
         <div class="images">
             <img src="{{villain.image2}}" alt="{{villain.alias}}" class="main-image">
-            {% if villain.image3 %}
-                <img src="{{villain.image3}}" alt="{{villain.alias}}" class="secondary-image">
-            {% endif %}
+            <img src="{{villain.image3}}" alt="{{villain.alias}}" class="secondary-image">
         </div>
 
         <div class="info">
@@ -26,14 +24,24 @@
             <h2 id="name" data-text="{{villain.name}}">{{villain.name}}</h2>
 
             <div id="container">
-                <h3 data-text="Universo">Universo</h3>
-                <p>{{villain.universe}}</p>
+                <div class="attribute">
+                    <h3 data-text="Universo">Universo</h3>
+                    <p>{{villain.universe}}</p>
+                </div>
 
-                <h3 data-text="Descripción">Descripción</h3>
-                <p>{{villain.description}}</p>
+                <div class="attribute">
+                    <h3 data-text="Descripción">Descripción</h3>
+                    <p>{{villain.description}}</p>
+                </div>
 
-                <h3 data-text="Poderes">Poderes</h3>
-                <p>{{villain.power}}</p>
+                <div class="attribute">
+                    <h3 data-text="Poderes">Poderes</h3>
+                    <ul class="power-list">
+                        {% for power in villain.power.splitlines %}
+                            {% if power %}<li>{{power}}</li>{% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
     </div>

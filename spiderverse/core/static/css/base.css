@@ -7,24 +7,24 @@ body {
     padding: 0;
 }
 
-header { 
-    background: #313f97;
-    color: white; 
-    padding: 3px 50px; 
-    display: flex; 
-    justify-content: space-between; 
-    align-items: center; 
+header {
+    background: #ED2226;
+    color: white;
+    padding: 3px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-nav a { 
-    color: white; 
-    margin-left: 15px; 
-    text-decoration: none; 
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
 }
 
 footer {
   text-align: center;
   padding: 3px;
-  background: #313f97;
+  background: #ED2226;
   color: white;
 }
